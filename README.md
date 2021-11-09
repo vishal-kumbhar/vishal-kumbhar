@@ -18,10 +18,7 @@ after login agian that he has new message from sender user.
 > # Installation steps:
 
 * make sure you have mysql , node js and npm installed in your operation system .
-* Create new database named chat .
-* Clone or Download the repository
-```
-git clone https://github.com/amirhamdy4b/real-time-chat.git
+* Create new database named chat 
 ```
 * Install Dependencies
 ```
